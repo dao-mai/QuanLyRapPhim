@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
+C:\Users\Admin\source\repos\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.FrmBaoCaoDoanhThu.resources
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.FrmBaoCaoDSPhim.resources
